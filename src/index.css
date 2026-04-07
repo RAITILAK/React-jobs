@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Custom theme values */
+:root {
+  /* Font (Roboto) */
+  --font-sans: "Roboto", sans-serif;
+
+  /* Custom grid (70/30) */
+  --grid-70-30: 70% 28%;
+}
